@@ -19,13 +19,13 @@ The network has the following requierements:
 - Room 312 LAN will requiere 14 host IP addresses
 - Room 407 LAN will requiere 8 host IP addresses
 
-![Network Topology](LAB1-CAP%201.png)
+![image_alt](https://github.com/evesanguano-png/Projects-Technical-Labs/blob/de13024f1d5b68d1e66d359bef1fa750df75d7a8/LAB1-CAP%201.png)
 
 ---
 
 ## VLSM Subnet Table
 
-![Subnet Table](LAB1-CAP2.png)
+![image_alt](https://github.com/evesanguano-png/Projects-Technical-Labs/blob/de13024f1d5b68d1e66d359bef1fa750df75d7a8/LAB1-CAP2.png)
 
 ---
 
@@ -33,7 +33,7 @@ The network has the following requierements:
 
 Connectivity verified from Branch1, Room-312, and PC-D using ping to all addresses in the addressing table.
 
-![Connectivity Verification](LAB1-CAP3.png)
+![image_alt](https://github.com/evesanguano-png/Projects-Technical-Labs/blob/de13024f1d5b68d1e66d359bef1fa750df75d7a8/LAB1-CAP3.png)
 
 ---
 
