@@ -14,7 +14,10 @@ Full configuration of routers and switches with end-to-end connectivity verifica
 
 ## Network Topology
 The network has the following requierements:
-
+- Room 114 LAN will requiere 27 host IP addresses
+- Room 279 LAN will requiere 25 host IP addresses
+- Room 312 LAN will requiere 14 host IP addresses
+- Room 407 LAN will requiere 8 host IP addresses
 
 ![Network Topology](LAB1-CAP1.png)
 
