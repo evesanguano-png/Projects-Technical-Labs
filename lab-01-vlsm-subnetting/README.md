@@ -2,7 +2,8 @@
 
 ## Description
 Design and implementation of a VLSM addressing scheme over the `172.31.103.0/24` network,
-divided into 5 subnets based on host requirements per area.
+divided into 4 subnets based on host requirements per area.
+
 Full configuration of routers and switches with end-to-end connectivity verification.
 
 **Tool:** Cisco Packet Tracer  
@@ -12,8 +13,10 @@ Full configuration of routers and switches with end-to-end connectivity verifica
 ---
 
 ## Network Topology
+The network has the following requierements:
 
-![Network Topology](LAB1-CAP% 1.png)
+
+![Network Topology](LAB1-CAP1.png)
 
 ---
 
