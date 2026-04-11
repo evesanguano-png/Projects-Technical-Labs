@@ -1,9 +1,16 @@
 # Lab 02 — VLANs and Trunking Implementation
 
 ## Description
-Configuration and verification of VLANs and trunk links across three 2960 switches.
-Includes access port assignment, voice VLAN setup, static and dynamic trunking,
-and virtual management interfaces (SVI).
+This lab simulates a branch office network deployment using three Cisco 2960 
+switches (SWA, SWB, SWC). The goal is to configure and verify VLANs and 
+trunking to segment network traffic by department.
+
+**The lab covers four main tasks:**
+
+- Creating and naming 6 VLANs across all switches (Admin, Accounts, HR, Voice, Management, Native)
+- Assigning access ports to the correct VLANs, including a voice VLAN port for IP telephony on SWC
+- Configuring a static trunk between SWA and SWB with DTP disabled and native VLAN set
+- Configuring dynamic trunking between SWA and SWC using DTP negotiation
 
 **Tool:** Cisco Packet Tracer  
 **Course:** Cisco Networking Academy — CCNA  
@@ -13,7 +20,7 @@ and virtual management interfaces (SVI).
 
 ## Network Topology
 
-![Network Topology](LAB2-CAP1.png)
+<img src="LAB2-CAP1.png" width="600">
 
 ---
 
@@ -49,25 +56,13 @@ and virtual management interfaces (SVI).
 
 ## Verification
 # VLAN and Trunk Verification -SWA
-![VLAN and Trunk Verification ](LAB2-CAP2.png)
+<img src="LAB2-CAP2.png" width="600">
+
 
 # Dynamic Trunking Verification -SWC (DTP)
 
-G0/2 on SWA configured to successfully negotiate trunking with SWC using DTP.
-
-![Dynamic Trunk SWC G0/2](LAB2-CAP3.png)
----
-
-## Skills Demonstrated
-
-- VLAN creation and naming on Cisco 2960 switches
-- Access port assignment per VLAN
-- Voice VLAN configuration (VLAN 40)
-- Static trunking with DTP disabled (SWA–SWB)
-- Dynamic trunking negotiation (SWA–SWC)
-- Native VLAN configuration to eliminate conflicts
-- SVI configuration for remote switch management
-
+G0/2 on SWC configured to successfully negotiate trunking with SWA using DTP.
+<img src="LAB2-CAP3.png" width="600">
 ---
 
 ## Credits
