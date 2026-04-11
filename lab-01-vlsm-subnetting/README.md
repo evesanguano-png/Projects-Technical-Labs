@@ -19,7 +19,7 @@ The network has the following requierements:
 - Room 312 LAN will requiere 14 host IP addresses
 - Room 407 LAN will requiere 8 host IP addresses
 
-![Network Topology](LAB1-CAP1.png)
+![Network Topology](LAB1-CAP%201.png)
 
 ---
 
