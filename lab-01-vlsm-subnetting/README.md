@@ -37,15 +37,6 @@ Connectivity verified from Branch1, Room-312, and PC-D using ping to all address
 
 ---
 
-## Skills Demonstrated
-
-- Variable Length Subnet Masking (VLSM)
-- Subnet calculation: network address, first host, broadcast
-- Cisco IOS interface configuration on routers
-- Default gateway assignment on switches and hosts
-- End-to-end connectivity testing
-
----
 ## Credits
 Lab based on Cisco Networking Academy curriculum (CCNA).  
 Topology and network requirements are part of the course material.  
