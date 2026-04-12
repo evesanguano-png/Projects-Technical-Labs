@@ -66,7 +66,7 @@ IP routing enabled with `ip routing` command.
 
 ### IPv4 Routing Table (show ip route)
 
-<img src="LAB3-CAP2.png" width="700">
+<img src="LAB3-CAP2.png" width="600">
 
 
 ### Connectivity Verification
@@ -103,7 +103,7 @@ G0/2 configured with IPv6 address for cloud connectivity.
 
 ### IPv6 Routing Table (show ipv6 route)
 
-<img src="LAB3-CAP3.png" width="700">
+<img src="LAB3-CAP4.png" width="600">
 
 
 
