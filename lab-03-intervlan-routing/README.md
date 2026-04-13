@@ -108,8 +108,16 @@ G0/2 configured with IPv6 address for cloud connectivity.
 
 
 
-> IPv6 connectivity verification pending — to be updated.
+### IPv6 connectivity verification 
 
+**PC3 →MLS (VLAN 10)**
+<img src="LAB3-CAP5-1.png" width="600">
+**PC4 →MLS (VLAN 20)**
+<img src="LAB3-CAP5-2.png" width="600">
+**PC5 →MLS (VLAN 30)**
+<img src="LAB3-CAP5-3.png" width="600">
+**Inter-VLAN routing PC4 →PC5 and Cloud **
+<img src="LAB3-CAP5-4.png" width="600">
 ---
 
 ## Credits
