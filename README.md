@@ -9,7 +9,7 @@ Built with Cisco Packet Tracer.
 |---|-------|-------|
 | 01 | [VLSM Subnetting](lab-01-vlsm-subnetting/) | Packet Tracer |
 | 02 | [VLANs & Trunking](lab-02-vlans-trunking/) | Packet Tracer  |
-| 03 | [Switching and Inter-VLAN](lab-03-intervlan-routing) | Packet Tracer |
+| 03 | [Layer 3 Switching and Inter-VLAN](lab-03-intervlan-routing) | Packet Tracer |
 | 04 | Static Routing | Coming soon |
 | 05 | OSPF | Coming soon |
 | 06 | ACLs | Coming soon |
